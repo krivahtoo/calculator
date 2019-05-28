@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Calculator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ButtonFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 14pt</Value>
+    </Setting>
+    <Setting Name="ButtonTextColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlText</Value>
+    </Setting>
+    <Setting Name="ButtonBackColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ButtonFace</Value>
+    </Setting>
+    <Setting Name="OperatorTextColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlText</Value>
+    </Setting>
+    <Setting Name="OperatorBackColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">AppWorkspace</Value>
+    </Setting>
+    <Setting Name="AnswerFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 14pt</Value>
+    </Setting>
+    <Setting Name="AnswerTextColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">WindowText</Value>
+    </Setting>
+    <Setting Name="AnswerBackColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Window</Value>
+    </Setting>
+    <Setting Name="BagroundColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ActiveCaption</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
